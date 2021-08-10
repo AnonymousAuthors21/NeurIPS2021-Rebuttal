@@ -1,6 +1,6 @@
 # Neurips2021-Materials for Replies to Reviewers
 
-Rebuttal materials for Neurips 2021 submissions. Purely anonymous.
+Purely anonymous.
 
 All error bars are obtained from 20 independent seed runs.
 
