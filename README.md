@@ -23,4 +23,8 @@ All error bars are obtained from 20 independent seed runs. All error bars in all
 ## UPDATED Figure regarding Action Quality Ablation
 ![](fig_ablation_action_quality.PNG)
 
+## BONUS Figure regarding Visualization of Unlock Tasks
+After the key is obtained, its original location will be marked blue (the invert color is yellow).
+![](fig_kdv3_visualization.PNG)
+
 
