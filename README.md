@@ -2,7 +2,7 @@
 
 Purely anonymous.
 
-All error bars are obtained from 20 independent seed runs.
+All error bars are obtained from 20 independent seed runs. All error bars in all figures in the manuscript have been updated with 20 independent seed runs.
 
 
 ## NEW Figure regarding Extended WM Baseline Performance
